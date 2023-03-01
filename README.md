@@ -1,6 +1,6 @@
 # 🚧Under Construction🚧
 
-*Site currently under construction, come back a later date*
+*Site currently under construction, come back a later date.*
 
 
 
