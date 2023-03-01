@@ -1,7 +1,8 @@
 # 🚧Under Construction🚧
-<img src="https://raw.githubusercontent.com/0exo/0exo.github.io/main/exo.jpg" height="50" width="50">
+<center>
+<img src="https://raw.githubusercontent.com/0exo/0exo.github.io/main/exo.jpg" height="250" width="250">
 *Site currently under construction, come back a later date.*
-
+</center>
 
 
 
