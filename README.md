@@ -16,4 +16,4 @@ Exo Hub has roblox scripts, unblocked games, and a free to use proxy.
 
 If you're trying to find out to create a 0exo/files/readme.md (bread crumb) simply just **press "/"** on your keyboard!
 
-<pre>replit.com</pre>
+<pre><code>replit.com<code></pre>
